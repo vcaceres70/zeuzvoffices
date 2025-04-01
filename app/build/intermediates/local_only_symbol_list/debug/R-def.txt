@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+id footerText
+id loginButton
+id logoImageView
+id passwordEditText
+id usernameEditText
+layout activity_login
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_orig
+string app_name

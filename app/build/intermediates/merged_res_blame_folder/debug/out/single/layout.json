@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.itcloudnet.secureconnect.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.itcloudnet.secureconnect.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.itcloudnet.secureconnect.app-mergeDebugResources-30:/layout/activity_login.xml",
+        "source": "com.itcloudnet.secureconnect.app-main-33:/layout/activity_login.xml"
+    }
+]
